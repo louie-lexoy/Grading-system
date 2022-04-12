@@ -1,8 +1,14 @@
 #head{
   text-align: center;
   opacity: 90px;
-  color:grey;
 }
 #body{
   background-color: lightblue;
+}
+#image{
+  text-align: left;
+}
+#image:hover{
+  width: 600px;
+  height: 500px
 }

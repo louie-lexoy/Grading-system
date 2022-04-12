@@ -1,1 +1,2 @@
-var score =
+#button {onclick="document.getElementById('demo').innerHTML = Date()"
+}
